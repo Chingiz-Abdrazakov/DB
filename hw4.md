@@ -237,4 +237,4 @@ Apache Geode является проектом фонда Apache Software Founda
 
 
 
-[Документация]([url](https://geode.apache.org/docs/guide/114/about_geode.html))
+[Документация](https://geode.apache.org/docs/guide/114/about_geode.html)
